@@ -14,6 +14,10 @@ Uses gogoanime's cdn service so likely will not work for much longer
 https://github.com/user-attachments/assets/2f5f6509-3e96-4a02-8632-9e3e8d82caf8
 
 
+https://github.com/user-attachments/assets/72098fd6-f7b4-4aa8-bb1c-5826b6af2f7c
+
+
+
 # Installation
 >[!WARNING]
 >USE A VPN FOR DOWNLOADS **PIRACY** MAY BE **ILLEGAL** IN YOUR COUNTRY
