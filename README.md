@@ -20,8 +20,7 @@ https://github.com/user-attachments/assets/da1e9dd2-f9c7-4869-8c64-bef4648a0739
 https://github.com/user-attachments/assets/2f5f6509-3e96-4a02-8632-9e3e8d82caf8
 
 
-https://github.com/user-attachments/assets/72098fd6-f7b4-4aa8-bb1c-5826b6af2f7c
-
+https://github.com/user-attachments/assets/a597c26b-aa71-4126-a569-4e098b368321
 
 
 # Installation
