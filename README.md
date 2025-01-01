@@ -34,4 +34,4 @@ https://github.com/user-attachments/assets/72098fd6-f7b4-4aa8-bb1c-5826b6af2f7c
 
 - Once you've got python installed open up `install.bat` and wait for it to finish installing / updating each component.
 
-- To run the program click into the folder path, type `cmd` and then `python app.py`
+- To run the program click into the folder path, type `cmd` and then `python ani.py`
