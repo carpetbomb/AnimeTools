@@ -3,7 +3,7 @@
 > [!NOTE]
 > DOES NOT WORK FOR ALL ANIME! SOME WILL ERROR BECAUSE THEIR NAMES ARE DIFFERENT IN THE CDN!
 
->[!INFO]
+>
 > You can override these errors by editing the AnimeOverride list
 
 # Info
