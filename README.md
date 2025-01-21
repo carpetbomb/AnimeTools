@@ -1,7 +1,10 @@
 # AnimeTools
 
 > [!NOTE]
-> DOES NOT WORK FOR ALL ANIME! SOME CRASH PROGRAM / WILL NOT SHOW!
+> DOES NOT WORK FOR ALL ANIME! SOME WILL ERROR BECAUSE THEIR NAMES ARE DIFFERENT IN THE CDN!
+
+>[!INFO]
+> You can override these errors by editing the AnimeOverride list
 
 # Info
 
@@ -9,18 +12,8 @@ Made in python
 
 Uses gogoanime's cdn service so likely will not work for much longer and no new episodes will be added
 
-![img](https://github.com/user-attachments/assets/ca2c403e-2758-43cc-8c92-9aae769f979e)
+![img](https://github.com/user-attachments/assets/b981e271-e3c9-4021-a464-96096ed7c4f7)
 
-
-
-
-https://github.com/user-attachments/assets/da1e9dd2-f9c7-4869-8c64-bef4648a0739
-
-
-https://github.com/user-attachments/assets/2f5f6509-3e96-4a02-8632-9e3e8d82caf8
-
-
-https://github.com/user-attachments/assets/a597c26b-aa71-4126-a569-4e098b368321
 
 
 # Installation
