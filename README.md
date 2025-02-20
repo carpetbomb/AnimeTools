@@ -14,7 +14,7 @@ Uses gogoanime's cdn service so likely will not work for much longer and no new 
 
 ![img](https://github.com/user-attachments/assets/b981e271-e3c9-4021-a464-96096ed7c4f7)
 
-
+(IF YOU WANT TO USE THE RENAMER DO NOT RENAME EPISODES WHEN YOU DOWNLOAD THEM!)
 
 # Installation
 >[!WARNING]
